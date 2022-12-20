@@ -1,0 +1,14 @@
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.exe
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.deps.json
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.runtimeconfig.json
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.runtimeconfig.dev.json
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.dll
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\bin\Debug\netcoreapp3.1\homework 20 december.pdb
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.csproj.AssemblyReference.cache
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.AssemblyInfoInputs.cache
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.AssemblyInfo.cs
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.csproj.CoreCompileInputs.cache
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.dll
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.pdb
+C:\Users\enser\source\repos\homework 20 december\homework 20 december\obj\Debug\netcoreapp3.1\homework 20 december.genruntimeconfig.cache
